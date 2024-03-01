@@ -1,0 +1,1 @@
+This is a Node.js program that creates folders according to the extension of the file and moves Swift files to their respective extension folders.
